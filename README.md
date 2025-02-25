@@ -20,7 +20,7 @@ Passionate about sustainability challenges, innovation, and emerging technologie
 Highly collaborative, solution- and goal-oriented, with a commitment to continuous learning.  
 Ready to contribute to impactful data-driven projects.
   
-</h3>
+</h3></h3>
 
 <!-- Contador de visitas -->
 <p align="left">
