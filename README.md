@@ -62,6 +62,7 @@ Ready to contribute to impactful data-driven projects.
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" height="30" alt="Salesforce Badge" />
 </div>
 
+
 <!-- Estadísticas de GitHub: Actualiza el nombre de usuario según corresponda -->
 <div align="center" style="margin-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=camilormv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
