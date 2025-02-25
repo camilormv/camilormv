@@ -62,7 +62,7 @@ Ready to contribute to impactful data-driven projects.
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" height="30" alt="Salesforce Badge" />
 </div>
 
-<br><br>
+<br>
 
 <!-- Estadísticas de GitHub: Actualiza el nombre de usuario según corresponda -->
 <div align="center" style="margin-top: 25px;">
