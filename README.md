@@ -22,7 +22,7 @@ Ready to contribute to impactful data-driven projects.
   
 </h3>
 
-<!-- Contador de visitas (actualiza el username si es necesario) -->
+<!-- Contador de visitas -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=camilormv&label=Profile%20Views&color=808080&style=flat" alt="camilormv" />
 </p>
@@ -60,7 +60,6 @@ Ready to contribute to impactful data-driven projects.
 
 <!-- Estadísticas de GitHub: Actualiza el nombre de usuario según corresponda -->
 <div align="center" style="margin-top: 25px;">
-  <img src="https://streak-stats.demolab.com?user=camilormv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=camilormv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilormv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
