@@ -4,18 +4,15 @@
 <!-- Presentación en Español e Inglés -->
 <h3 align="center" style="color: #ff00ff;">
   
-### Español:
-
-Analista de Datos con formación en Ingeniería Mecánica, con dominio de SQL, Python y Business Intelligence.  
-Experiencia en minería, proyectos industriales y ventas técnicas.  
-Apasionado por los desafíos de sustentabilidad, la innovación y las tecnologías emergentes.  
-Altamente colaborativo, orientado a soluciones y objetivos, y comprometido con el aprendizaje continuo.  
-Listo para contribuir al éxito de equipos dinámicos en proyectos basados en datos.
-
 ### English:
 
 Data Analyst with a Mechanical Engineering background, certified in Data Analysis, and extensive experience in SQL, Python, and Business Intelligence tools. Passionate about machine learning and predictive analytics, I am actively transitioning into Data Science roles, focused on delivering data-driven solutions in remote environments. My analytical skills and continuous learning drive me to extract valuable insights and foster innovation.
 ─────────────────────
+
+### Español:
+
+Analista de Datos con formación en Ingeniería Mecánica, certificado en Análisis de Datos y con amplia experiencia en SQL, Python y herramientas de Inteligencia Empresarial. Apasionado por el aprendizaje automático y la analítica predictiva, estoy en transición activa hacia roles en Ciencia de Datos, enfocado en ofrecer soluciones basadas en datos en entornos remotos. Mis habilidades analíticas y mi aprendizaje continuo me impulsan a extraer conocimientos valiosos y fomentar la innovación.
+────────────────────
   
 </h3>
 
