@@ -14,11 +14,8 @@ Listo para contribuir al éxito de equipos dinámicos en proyectos basados en da
 
 ### English:
 
-Data Analyst with a Mechanical Engineering background, proficient in SQL, Python, and Business Intelligence.  
-Experienced in mining, industrial projects, and technical sales.  
-Passionate about sustainability challenges, innovation, and emerging technologies.  
-Highly collaborative, solution- and goal-oriented, with a commitment to continuous learning.  
-Ready to contribute to impactful data-driven projects.
+Data Analyst with a Mechanical Engineering background, certified in Data Analysis, and extensive experience in SQL, Python, and Business Intelligence tools. Passionate about machine learning and predictive analytics, I am actively transitioning into Data Science roles, focused on delivering data-driven solutions in remote environments. My analytical skills and continuous learning drive me to extract valuable insights and foster innovation.
+─────────────────────
   
 </h3>
 
