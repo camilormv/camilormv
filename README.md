@@ -7,7 +7,7 @@
 ### English:
 
 Data Analyst with a Mechanical Engineering background, certified in Data Analysis, and extensive experience in SQL, Python, and Business Intelligence tools. Passionate about machine learning and predictive analytics, I am actively transitioning into Data Science roles, focused on delivering data-driven solutions in remote environments. My analytical skills and continuous learning drive me to extract valuable insights and foster innovation.</p>
-─────────────────────
+────────────────────
 
 ### Español:
 
