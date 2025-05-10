@@ -4,12 +4,12 @@
 <!-- Presentación en Español e Inglés -->
 <h3 align="center" style="color: #ff00ff;">
   
-### EN:
+### En:
 
 AI/ML Developer with Engineering background and strong fundation in Data Analysis. Proficient in SQL, Python, and Business Intelligence tools. Passionate about innovation and new technologies, particularly in the field of machine learning and predictive analytics, I am currently pursuing degrees in Computer Science and Data Science.</p>
 ────────────────────
 
-### ES:
+### Es:
 
 Desarrollador AI/ML con experiencia en Ingeniería y una sólida base en SQL, Python y herramientas de Inteligencia de Negocios. Apasionado por la innovación y las nuevas tecnologías, especialmente en el campo del aprendizaje automático y la analítica predictiva. Actualmente estoy cursando estudios en Ciencias de la Computación y Ciencia de Datos.</p>
 ────────────────────
