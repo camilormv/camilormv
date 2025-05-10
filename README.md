@@ -6,12 +6,12 @@
   
 ### English:
 
-Data Analyst with a Engineering background, certified in Data Analysis, and extensive experience in SQL, Python, and Business Intelligence tools. Passionate about machine learning and predictive analytics, I am actively transitioning into Data Science roles, focused on delivering data-driven solutions. My analytical skills and continuous learning drive me to extract valuable insights and foster innovation.</p>
+AI/ML Developer with Engineering background and strong fundation in Data Analysis. Proficient in SQL, Python, and Business Intelligence tools. Passionate about innovation and new technologies, particularly in the field of machine learning and predictive analytics, I am currently pursuing degrees in Computer Science and Data Science.</p>
 ────────────────────
 
 ### Español:
 
-Analista de Datos con formación en Ingeniería, certificado en Análisis de Datos y con amplia experiencia en SQL, Python y herramientas de Inteligencia de Negocios. Apasionado por el aprendizaje automático y la analítica predictiva, estoy en transición activa hacia roles en Ciencia de Datos enfocado en ofrecer soluciones basadas en datos. Mis habilidades analíticas y el aprendizaje continuo me impulsan a extraer conocimientos valiosos y fomentar la innovación.</p>
+Desarrollador AI/ML con experiencia en Ingeniería y una sólida base en SQL, Python y herramientas de Inteligencia de Negocios. Apasionado por la innovación y las nuevas tecnologías, especialmente en el campo del aprendizaje automático y la analítica predictiva. Actualmente estoy cursando estudios en Ciencias de la Computación y Ciencia de Datos.</p>
 ────────────────────
   
 </h3>
