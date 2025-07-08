@@ -6,7 +6,7 @@
   
 ### EN:
 
-AI/ML enthusiast with a focus on evaluating and integrating cutting-edge tools to drive real-world business impact. 
+AI/ML enthusiast 🥰. 
 
 
 
