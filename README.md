@@ -6,7 +6,7 @@
   
 ### EN:
 
-AI/ML enthusiast 🥰. 
+AI/ML enthusiast 🤕 🥰. 
 
 
 
