@@ -7,7 +7,9 @@
 ### EN:
 
 AI/ML enthusiast & Mechanical Engineer. 
-Passionate about innovation and bussiness development.  
+Passionate about innovation and bussiness development. 
+
+Let's rock ! 
 
 
 
