@@ -6,7 +6,7 @@
   
 ### EN:
 
-AI/ML enthusiast & Mechanical Engineer. 
+AI/ML Developer & Mechanical Engineer. 
 Passionate about innovation and bussiness development. 
 
 Let's rock ! 
